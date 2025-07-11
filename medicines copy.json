@@ -1,0 +1,17 @@
+[
+    {
+      "name": "Paracetamol",
+      "brandNames": ["Crocin", "Calpol"],
+      "uses": "Pain reliever and fever reducer",
+      "dosage": "500mg every 6-8 hours, max 4g per day",
+      "sideEffects": "Nausea, rash, liver damage (rare)"
+    },
+    {
+      "name": "Ibuprofen",
+      "brandNames": ["Brufen", "Advil"],
+      "uses": "Reduces pain, inflammation, and fever",
+      "dosage": "200-400mg every 4-6 hours",
+      "sideEffects": "Stomach upset, ulcers, kidney issues"
+    }
+  ]
+  

@@ -1,0 +1,556 @@
+[
+    {
+      "name": "Paracetamol",
+      "uses": "Paracetamol is a common over-the-counter medicine used to relieve mild to moderate pain (like headaches, muscle aches, toothaches) and to reduce fever. It’s gentle on the stomach compared to NSAIDs.",
+      "sideEffects": "Generally well tolerated, but high doses can cause severe liver damage or failure, which may be fatal. Rare side effects include skin rashes, allergic reactions like swelling or difficulty breathing, and low blood cell counts in rare cases.",
+      "precautions": "Do not take with alcohol or other medicines containing paracetamol. Avoid overdose — check all cold/flu remedies for duplicate ingredients.",
+      "dosage": "Adults: 500–1000 mg every 4–6 hours, max 4 grams per day. Children: follow pediatric dosing.",
+      "mechanism": "Works mainly in the brain by inhibiting prostaglandin production, lowering pain and fever signals."
+    },
+    {
+      "name": "Ibuprofen",
+      "uses": "Ibuprofen is a non-steroidal anti-inflammatory drug (NSAID) used for relief of pain, fever, and inflammation. Common for headaches, muscle pain, arthritis, and menstrual cramps.",
+      "sideEffects": "Can cause stomach irritation, nausea, heartburn, or even ulcers and bleeding in the stomach. Long-term or high-dose use may affect kidney function, raise blood pressure, and increase risk of heart attack or stroke. Allergic reactions like rash or asthma flare-ups can occur.",
+      "precautions": "Take with food or milk to reduce stomach upset. Avoid alcohol. People with ulcers, asthma, kidney disease, or heart problems should consult a doctor.",
+      "dosage": "200–400 mg every 4–6 hours as needed. Max 1200 mg/day without prescription.",
+      "mechanism": "Blocks COX enzymes (COX-1 and COX-2), reducing prostaglandins which cause pain, swelling, and fever."
+    },
+    {
+      "name": "Amoxicillin",
+      "uses": "Amoxicillin is a broad-spectrum penicillin antibiotic for bacterial infections like strep throat, ear infections, pneumonia, and UTIs.",
+      "sideEffects": "Common side effects include nausea, diarrhea, and mild skin rashes. Severe allergic reactions can cause anaphylaxis, which is life-threatening. Rarely, can cause yeast infections, liver problems, or severe diarrhea due to Clostridium difficile.",
+      "precautions": "Always complete the full course even if you feel better. Inform your doctor if allergic to penicillin. May interfere with birth control pills — consider extra protection.",
+      "dosage": "250–500 mg every 8 hours, or as directed by doctor.",
+      "mechanism": "Prevents bacteria from forming cell walls, causing them to burst and die."
+    },
+      {
+      "name": "Azithromycin",
+      "uses": "Azithromycin is a macrolide antibiotic used for infections like bronchitis, pneumonia, sinusitis, skin infections, and certain sexually transmitted infections (STIs).",
+      "sideEffects": "May cause stomach upset, nausea, vomiting, or diarrhea. Can sometimes cause abnormal heart rhythms (QT prolongation) — caution if you have heart problems. Rarely, can cause liver issues, allergic reactions, or hearing changes with long use.",
+      "precautions": "Take on an empty stomach for best absorption. Avoid taking antacids with aluminum or magnesium within 2 hours of dose.",
+      "dosage": "Typically 500 mg on day 1, then 250 mg daily for 4 days — or as prescribed.",
+      "mechanism": "Stops bacterial growth by blocking protein synthesis at the 50S ribosomal subunit."
+    },
+    {
+      "name": "Pantoprazole",
+      "uses": "Pantoprazole is a proton pump inhibitor (PPI) that reduces stomach acid production, used for GERD, ulcers, and acid reflux.",
+      "sideEffects": "Possible headache, stomach pain, diarrhea, nausea, or flatulence. Long-term use can reduce magnesium levels, increase risk of bone fractures, cause B12 deficiency, or increase risk of gut infections like C. difficile.",
+      "precautions": "Take before meals for best effect. Long-term users should monitor bone health and vitamin B12 levels.",
+      "dosage": "20–40 mg once daily before food, or as prescribed.",
+      "mechanism": "Blocks the proton pump (H+/K+ ATPase) in stomach lining cells, reducing acid secretion."
+    },
+    {
+      "name": "Omeprazole",
+      "uses": "Omeprazole is a proton pump inhibitor (PPI) that reduces stomach acid production, used for GERD, ulcers, and acid reflux.",
+      "sideEffects": "Possible headache, stomach pain, diarrhea, nausea, or flatulence. Long-term use can reduce magnesium levels, increase risk of bone fractures, cause B12 deficiency, or increase risk of gut infections like C. difficile.",
+      "precautions": "Take before meals for best effect. Long-term users should monitor bone health and vitamin B12 levels.",
+      "dosage": "20–40 mg once daily before food, or as prescribed.",
+      "mechanism": "Blocks the proton pump (H+/K+ ATPase) in stomach lining cells, reducing acid secretion."
+    },
+    {
+      "name": "Panoprazole",
+      "uses": "Panoprazole is a proton pump inhibitor (PPI) that lowers stomach acid. It’s used to treat gastroesophageal reflux disease (GERD), stomach ulcers, and conditions with excessive acid like Zollinger-Ellison syndrome.",
+      "sideEffects": "Common side effects include headache, nausea, diarrhea, abdominal pain, and gas. Long-term use may lower magnesium levels, weaken bones leading to fractures (hip, wrist, spine), and increase risk of gut infections like Clostridium difficile. Rare allergic reactions include rash, swelling, or difficulty breathing.",
+      "precautions": "Take 30–60 minutes before meals. Long-term use should be monitored for bone density and vitamin B12 deficiency. Do not crush or chew tablets.",
+      "dosage": "20–40 mg once daily, usually for 4–8 weeks or as prescribed.",
+      "mechanism": "Blocks the proton pump (H+/K+ ATPase) in stomach lining cells, dramatically reducing gastric acid secretion."
+    },
+    {
+      "name": "Metformin",
+      "uses": "Metformin is a cornerstone medicine for managing type 2 diabetes. It helps lower blood sugar by improving insulin sensitivity and reducing glucose production in the liver.",
+      "sideEffects": "Common side effects are stomach upset, nausea, diarrhea, bloating, or a metallic taste. Rare but serious: lactic acidosis — a dangerous buildup of lactic acid, which can be fatal. Risk is higher in kidney or liver disease, severe infections, or heavy alcohol use.",
+      "precautions": "Take with food to reduce stomach side effects. Monitor kidney function regularly. Avoid excessive alcohol.",
+      "dosage": "500–2000 mg daily, usually divided into 2–3 doses with meals.",
+      "mechanism": "Reduces liver glucose output and increases insulin sensitivity in muscles and fat."
+    },
+    {
+      "name": "Atorvastatin",
+      "uses": "Atorvastatin is a statin used to lower cholesterol and triglycerides, reducing risk of heart attack and stroke in people with high cholesterol or cardiovascular disease.",
+      "sideEffects": "Possible side effects include muscle pain or weakness, joint pain, nausea, indigestion, and diarrhea. Rare but serious: muscle breakdown (rhabdomyolysis) leading to kidney damage, liver enzyme elevation, or allergic reactions like rash or swelling.",
+      "precautions": "Avoid grapefruit juice, which can increase drug levels. Monitor liver function tests regularly. Report unexplained muscle pain, tenderness, or weakness immediately.",
+      "dosage": "10–80 mg once daily, preferably at the same time each day.",
+      "mechanism": "Blocks HMG-CoA reductase, the enzyme that makes cholesterol in the liver."
+    },
+    {
+      "name": "Amlodipine",
+      "uses": "Amlodipine is a calcium channel blocker used to lower high blood pressure (hypertension) and prevent chest pain (angina).",
+      "sideEffects": "May cause swelling in the ankles and feet, flushing, dizziness, headache, palpitations, or fatigue. Rarely, can cause severe low blood pressure or allergic reactions. Some people report gum swelling or overgrowth with long use.",
+      "precautions": "Avoid abrupt stopping — can worsen chest pain. Stand up slowly to prevent dizziness.",
+      "dosage": "2.5–10 mg once daily.",
+      "mechanism": "Relaxes and widens blood vessels by inhibiting calcium influx into smooth muscle cells."
+    },
+    {
+      "name": "Levothyroxine",
+      "uses": "Levothyroxine is a synthetic thyroid hormone used to treat hypothyroidism (underactive thyroid). It replaces or supplements the natural thyroid hormone thyroxine (T4).",
+      "sideEffects": "Side effects usually arise from incorrect dosing: too high a dose can cause symptoms of hyperthyroidism like palpitations, tremors, anxiety, sweating, insomnia, weight loss, or irregular heartbeat. Rarely, allergic reactions to fillers can occur.",
+      "precautions": "Take on an empty stomach, 30–60 minutes before breakfast. Avoid taking with calcium or iron supplements close to dose time as they reduce absorption. Regular monitoring of thyroid levels is essential.",
+      "dosage": "Usually 25–150 mcg daily, adjusted based on TSH levels.",
+      "mechanism": "Replaces or supplements thyroxine (T4), normalizing metabolism and energy regulation."
+    },
+    {
+      "name": "Lisinopril",
+      "uses": "Lisinopril is an ACE inhibitor used to treat high blood pressure, heart failure, and to protect kidneys in diabetes.",
+      "sideEffects": "Common side effects include dry persistent cough, dizziness, headache, and tiredness. Rare but serious: swelling of the face, lips, or throat (angioedema), which can be life-threatening. May raise potassium levels, causing irregular heartbeat.",
+      "precautions": "Monitor blood pressure and kidney function. Avoid potassium supplements or salt substitutes unless prescribed.",
+      "dosage": "2.5–40 mg once daily, depending on condition and response.",
+      "mechanism": "Blocks angiotensin-converting enzyme (ACE), relaxing blood vessels and lowering blood pressure."
+    },
+    {
+    "name": "Losartan",
+    "uses": "Losartan is an angiotensin II receptor blocker (ARB) used to treat high blood pressure and protect the kidneys in people with diabetes. It’s also used for heart failure and to reduce stroke risk.",
+    "sideEffects": "May cause dizziness, tiredness, low blood pressure, and increased potassium levels leading to muscle weakness or irregular heartbeat. Rare side effects include kidney problems, allergic reactions like swelling of face or throat (angioedema), or liver dysfunction. Occasionally, it may cause back pain, nasal congestion, or cough.",
+    "precautions": "Monitor blood pressure, kidney function, and potassium levels regularly. Avoid potassium-rich salt substitutes unless prescribed. Stay hydrated.",
+    "dosage": "25–100 mg daily, taken once or divided into two doses.",
+    "mechanism": "Blocks angiotensin II receptors, relaxing blood vessels and lowering blood pressure."
+  },
+  {
+    "name": "Montelukast",
+    "uses": "Montelukast is a leukotriene receptor antagonist used to prevent and control asthma symptoms and to relieve seasonal or perennial allergic rhinitis.",
+    "sideEffects": "Common side effects include headache, abdominal pain, or diarrhea. Rare but more concerning are mood or behavior changes like agitation, aggression, depression, or suicidal thoughts. Some people report nightmares or sleepwalking. Allergic reactions are rare but possible.",
+    "precautions": "Take daily in the evening for asthma, or anytime for allergies. Not for sudden asthma attacks — always have a rescue inhaler.",
+    "dosage": "5–10 mg once daily.",
+    "mechanism": "Blocks leukotrienes, chemicals that cause airway inflammation and nasal allergy symptoms."
+  },
+  {
+    "name": "Levocetirizine",
+    "uses": "Levocetirizine is an antihistamine used to relieve allergy symptoms like runny nose, sneezing, itchy eyes, and hives.",
+    "sideEffects": "May cause drowsiness, dry mouth, fatigue, and sometimes headache. Rarely, it can cause difficulty urinating, agitation, or severe allergic reactions. Some people may feel slight weight gain or mild stomach upset.",
+    "precautions": "Avoid alcohol and sedatives as they can increase drowsiness. Use caution when driving or operating machinery.",
+    "dosage": "5 mg once daily, usually in the evening.",
+    "mechanism": "Blocks histamine H1 receptors, reducing allergic responses."
+  },
+  {
+    "name": "Cefixime",
+    "uses": "Cefixime is a third-generation cephalosporin antibiotic used to treat bacterial infections like tonsillitis, bronchitis, pneumonia, urinary tract infections, and gonorrhea.",
+    "sideEffects": "May cause diarrhea, nausea, stomach pain, gas, or headache. Severe but rare side effects include severe allergic reactions, skin rashes, jaundice, or Clostridium difficile-associated diarrhea (severe gut infection). May alter liver or kidney test results. Yeast infections can occur due to imbalance of normal flora.",
+    "precautions": "Complete the full course as prescribed. Take with or without food, but consistency helps. Report severe diarrhea or rash immediately.",
+    "dosage": "200–400 mg daily in one or two doses, depending on infection.",
+    "mechanism": "Inhibits bacterial cell wall synthesis, leading to bacterial death."
+  },
+  {
+    "name": "Omeprazole",
+    "uses": "Omeprazole is a proton pump inhibitor (PPI) used to reduce stomach acid. It treats GERD, peptic ulcers, and conditions with excess stomach acid like Zollinger-Ellison syndrome.",
+    "sideEffects": "Common side effects include headache, stomach pain, nausea, diarrhea, or gas. Long-term use may lower magnesium or vitamin B12 levels, weaken bones (higher fracture risk in spine, hip, wrist), or increase risk of gut infections like Clostridium difficile. Rarely, kidney inflammation, severe rash, or liver issues may occur.",
+    "precautions": "Take before meals for best effect. Long-term use should be monitored by a doctor. Avoid crushing or chewing capsules.",
+    "dosage": "20–40 mg once daily, usually for 4–8 weeks.",
+    "mechanism": "Blocks the proton pump (H+/K+ ATPase) in stomach lining cells, drastically lowering gastric acid production."
+  },
+    
+  {
+    "name": "Ranitidine",
+    "uses": "Ranitidine is an H2 receptor blocker used to reduce stomach acid production. It was commonly prescribed for ulcers, acid reflux, and heartburn before being largely withdrawn in many countries due to concerns about potential contamination with NDMA (a probable carcinogen).",
+    "sideEffects": "May cause headache, constipation, diarrhea, or stomach pain. Rare side effects include liver dysfunction (yellowing of eyes/skin), low white blood cell count leading to infections, confusion (mostly in elderly), or allergic reactions like rash or breathing difficulty.",
+    "precautions": "Many countries advise alternatives due to safety concerns. Use only if prescribed and under strict monitoring.",
+    "dosage": "150–300 mg per day in divided doses or once daily at bedtime.",
+    "mechanism": "Blocks H2 histamine receptors in stomach lining, reducing acid secretion."
+  },
+  {
+    "name": "Ondansetron",
+    "uses": "Ondansetron is an antiemetic used to prevent nausea and vomiting caused by chemotherapy, radiation therapy, or surgery.",
+    "sideEffects": "Common side effects include headache, constipation, and dizziness. Rare but serious effects can include irregular heartbeat (QT prolongation), allergic reactions, or serotonin syndrome if combined with other serotonergic drugs. May also cause temporary visual disturbances or muscle spasms.",
+    "precautions": "Use caution in people with heart rhythm disorders. Stay hydrated if vomiting is severe. Avoid alcohol while taking it.",
+    "dosage": "4–8 mg every 8 hours as needed, as prescribed.",
+    "mechanism": "Blocks serotonin (5-HT3) receptors in the brain and gut, preventing nausea signals."
+  },
+  {
+    "name": "Domperidone",
+    "uses": "Domperidone is used to relieve nausea and vomiting, and to aid stomach emptying in conditions like gastroparesis. It can also stimulate breast milk production in some cases (off-label).",
+    "sideEffects": "May cause dry mouth, headache, abdominal cramps, or diarrhea. Rarely, can affect heart rhythm (QT prolongation) especially in elderly or high doses. Hormonal side effects like breast tenderness or milk discharge may occur due to increased prolactin levels. Long-term or high-dose use needs caution.",
+    "precautions": "Use for shortest duration at lowest effective dose. Avoid if you have heart conditions or are on other QT-prolonging drugs.",
+    "dosage": "10–20 mg up to 3 times daily, before meals.",
+    "mechanism": "Blocks dopamine receptors in the gut and brain, speeding up stomach emptying and reducing nausea."
+  },
+  {
+    "name": "Diclofenac",
+    "uses": "Diclofenac is a nonsteroidal anti-inflammatory drug (NSAID) used to relieve pain, inflammation, and swelling in conditions like arthritis, back pain, and injuries.",
+    "sideEffects": "Common side effects include stomach pain, indigestion, nausea, or headache. May cause ulcers, stomach bleeding, or liver/kidney issues if used long-term. Rarely, may increase blood pressure, cause skin rashes, or trigger asthma in sensitive people. Can also cause fluid retention or heart risks if used chronically.",
+    "precautions": "Take with food or milk to reduce stomach irritation. Avoid alcohol and other NSAIDs. Use the lowest effective dose for shortest duration.",
+    "dosage": "50–100 mg daily in divided doses.",
+    "mechanism": "Inhibits COX enzymes, reducing production of prostaglandins which cause pain and inflammation."
+  },
+  {
+    "name": "Aceclofenac",
+    "uses": "Aceclofenac is an NSAID used for pain and inflammation in arthritis, spondylitis, and musculoskeletal injuries.",
+    "sideEffects": "Common side effects include gastritis, indigestion, nausea, dizziness, and mild rash. Long-term use may cause stomach ulcers, liver function changes, kidney issues, or increased heart risks. Rare allergic reactions may include skin rash, swelling, or severe liver reactions.",
+    "precautions": "Use for short periods, always with food or milk. Avoid combining with other NSAIDs. Monitor for stomach pain or signs of bleeding.",
+    "dosage": "100 mg twice daily.",
+    "mechanism": "Inhibits COX enzymes, blocking prostaglandin production to reduce pain and inflammation."
+  },
+  {
+    "name": "Nimesulide",
+    "uses": "Nimesulide is a selective COX-2 NSAID used for pain relief in acute inflammation, osteoarthritis, or fever. Its use is restricted or banned in some countries due to liver safety concerns.",
+    "sideEffects": "May cause stomach pain, nausea, diarrhea, or headache. Serious risks include liver damage, jaundice, and rarely severe skin reactions. Long-term or repeated use is discouraged due to liver toxicity risk.",
+    "precautions": "Use for short-term only (≤15 days). Avoid alcohol. Report any signs of jaundice or severe stomach pain immediately.",
+    "dosage": "100 mg twice daily for a few days only.",
+    "mechanism": "Selectively blocks COX-2 enzyme to reduce pain and inflammation with fewer gastric side effects, but higher liver risk."
+  },
+  {
+    "name": "Ofloxacin",
+    "uses": "Ofloxacin is a fluoroquinolone antibiotic used for bacterial infections like UTIs, respiratory tract infections, and some STDs.",
+    "sideEffects": "May cause nausea, diarrhea, dizziness, or insomnia. Rare but serious side effects include tendon rupture, nerve damage (tingling, weakness), severe allergic reactions, mental disturbances (anxiety, hallucinations), or heart rhythm changes. May cause sun sensitivity.",
+    "precautions": "Avoid unnecessary sun exposure. Stay hydrated. Not recommended in children or during pregnancy due to joint/tendon risks.",
+    "dosage": "200–400 mg twice daily.",
+    "mechanism": "Inhibits bacterial DNA gyrase, preventing DNA replication and killing bacteria."
+  },
+  {
+    "name": "Ciprofloxacin",
+    "uses": "Ciprofloxacin is another fluoroquinolone antibiotic used for UTIs, respiratory, GI, bone/joint infections, or anthrax exposure.",
+    "sideEffects": "May cause nausea, diarrhea, stomach pain, or rash. Rare but serious side effects include tendonitis/tendon rupture, nerve damage, severe mood changes, seizures, or irregular heartbeat. Can cause photosensitivity and liver enzyme changes. Not for children or pregnant women due to cartilage risks.",
+    "precautions": "Avoid sun exposure, drink plenty of water. Take 2 hours before or 6 hours after dairy/antacids. Complete the full course as prescribed.",
+    "dosage": "250–750 mg twice daily.",
+    "mechanism": "Inhibits bacterial enzymes DNA gyrase and topoisomerase IV, stopping bacterial DNA replication."
+  },
+  {
+    "name": "Metronidazole",
+    "uses": "Metronidazole is an antibiotic and antiprotozoal used to treat bacterial vaginosis, trichomoniasis, amoebiasis, giardiasis, and anaerobic bacterial infections.",
+    "sideEffects": "May cause metallic taste, nausea, vomiting, diarrhea, or stomach cramps. Rarely, may cause numbness/tingling in hands or feet, seizures, or mood changes. High doses or prolonged use can affect liver. Alcohol with metronidazole may cause severe nausea, flushing, and palpitations (disulfiram-like reaction).",
+    "precautions": "Never consume alcohol during treatment and for 48 hours after last dose. Take exactly as prescribed, complete the full course.",
+    "dosage": "400–800 mg 2–3 times daily, depending on infection.",
+    "mechanism": "Disrupts DNA of anaerobic bacteria and protozoa, killing them."
+  },
+  {
+    "name": "Doxycycline",
+    "uses": "Doxycycline is a tetracycline antibiotic used for bacterial infections like respiratory infections, STDs, acne, malaria prevention, or Lyme disease.",
+    "sideEffects": "Common side effects include nausea, vomiting, diarrhea, and sun sensitivity. Rare risks include severe skin reactions, esophageal irritation or ulcers (if taken lying down), liver or kidney dysfunction, and intracranial hypertension (headache, vision changes). May cause tooth discoloration in children, so not for use in kids under 8 or pregnant women.",
+    "precautions": "Take with plenty of water, remain upright for 30 minutes after. Use sunscreen and protective clothing outdoors.",
+    "dosage": "100 mg once or twice daily.",
+    "mechanism": "Inhibits bacterial protein synthesis by binding the 30S ribosomal subunit."
+  },
+
+  {
+    "name": "Cetirizine",
+    "uses": "Used to treat allergic rhinitis, hay fever, runny nose, sneezing, itchy eyes, and hives (urticaria).",
+    "dosage": "Adults: 5–10 mg once daily, usually at bedtime to minimize drowsiness.",
+    "sideEffects": "Drowsiness, dry mouth, headache, stomach pain, dizziness. Rarely, may cause liver enzyme changes or severe allergic reactions.",
+    "precautions": "Avoid alcohol and sedatives. Use with caution in elderly or people with kidney issues.",
+    "mechanism": "Second-generation antihistamine that selectively blocks peripheral H1 receptors, reducing allergic symptoms without much sedation."
+  },
+  {
+    "name": "Fexofenadine",
+    "uses": "Non-drowsy antihistamine for hay fever, seasonal allergies, and chronic urticaria.",
+    "dosage": "Adults: 120–180 mg once daily, with or without food.",
+    "sideEffects": "Headache, nausea, dizziness, back pain. Rarely, insomnia or fast heartbeat.",
+    "precautions": "Avoid taking with fruit juices (may decrease absorption). Use with caution in kidney disease.",
+    "mechanism": "Third-generation antihistamine that blocks peripheral H1 receptors, with minimal crossing of the blood-brain barrier, so low sedation."
+  },
+  {
+    "name": "Diphenhydramine",
+    "uses": "Treats allergies, cold symptoms, motion sickness, and insomnia. Also used as a mild sedative.",
+    "dosage": "25–50 mg every 4–6 hours for allergies; 25–50 mg at bedtime for sleep.",
+    "sideEffects": "Marked drowsiness, dry mouth, constipation, blurred vision, urinary retention, confusion (especially in elderly). High doses can cause hallucinations.",
+    "precautions": "Avoid alcohol and other sedatives. Not recommended for elderly due to fall risk. Can worsen glaucoma and prostate problems.",
+    "mechanism": "First-generation antihistamine that crosses the blood-brain barrier, causing significant sedation by blocking central H1 receptors."
+  },
+  {
+    "name": "Chlorpheniramine",
+    "uses": "Relieves allergy symptoms like runny nose, sneezing, watery eyes, and itching from hay fever or colds.",
+    "dosage": "4 mg every 4–6 hours; maximum 24 mg daily.",
+    "sideEffects": "Drowsiness, dry mouth, blurred vision, constipation, dizziness. May cause confusion in older adults.",
+    "precautions": "Avoid driving or operating machinery. Caution in elderly, glaucoma, and urinary retention.",
+    "mechanism": "First-generation antihistamine that blocks H1 receptors in the brain and periphery, causing sedation and anticholinergic effects."
+  },
+  {
+    "name": "Dextromethorphan",
+    "uses": "A cough suppressant for dry, non-productive coughs. Common in OTC cough syrups.",
+    "dosage": "10–20 mg every 4 hours, or 30 mg every 6–8 hours. Max 120 mg daily.",
+    "sideEffects": "Drowsiness, dizziness, nausea, stomach upset. Misuse can cause hallucinations or dissociation at high doses.",
+    "precautions": "Do not combine with MAO inhibitors or SSRIs (risk of serotonin syndrome). Avoid misuse for recreational effects.",
+    "mechanism": "Acts on the cough center in the medulla oblongata to suppress cough reflex. NMDA receptor antagonist at high doses."
+  },
+  {
+    "name": "Guaifenesin",
+    "uses": "Expectorant to loosen mucus, making it easier to cough up during colds and bronchitis.",
+    "dosage": "200–400 mg every 4 hours; max 2,400 mg daily. Drink plenty of fluids.",
+    "sideEffects": "Nausea, vomiting, stomach upset, dizziness, rash. Rare allergic reactions possible.",
+    "precautions": "Take with a full glass of water. Use cautiously in chronic cough due to smoking or asthma.",
+    "mechanism": "Increases the volume and reduces the viscosity of respiratory tract secretions, making mucus easier to expel."
+  },
+  {
+    "name": "Pseudoephedrine",
+    "uses": "Nasal decongestant for relief of stuffy nose and sinus pressure from colds or allergies.",
+    "dosage": "60 mg every 4–6 hours; max 240 mg daily.",
+    "sideEffects": "Insomnia, nervousness, restlessness, fast heartbeat, increased blood pressure.",
+    "precautions": "Avoid if you have hypertension, heart disease, or thyroid disorders. May interact with MAO inhibitors.",
+    "mechanism": "Sympathomimetic agent that stimulates alpha-adrenergic receptors, causing vasoconstriction and reduced nasal congestion."
+  },
+  {
+    "name": "Salbutamol",
+    "uses": "Short-acting bronchodilator for quick relief of asthma attacks, wheezing, or COPD flare-ups.",
+    "dosage": "100–200 mcg (1–2 puffs) every 4–6 hours as needed. Do not exceed recommended use.",
+    "sideEffects": "Tremors, headache, palpitations, fast heartbeat, nervousness, muscle cramps.",
+    "precautions": "Excess use may cause heart issues. Use only as prescribed. Avoid in uncontrolled heart rhythm disorders.",
+    "mechanism": "Selective beta-2 adrenergic agonist that relaxes bronchial smooth muscle, leading to bronchodilation."
+  },
+  {
+    "name": "Budesonide",
+    "uses": "Inhaled corticosteroid for long-term control of asthma or COPD. Also used in nasal sprays for allergies.",
+    "dosage": "100–400 mcg inhaled twice daily. Nasal: 1–2 sprays in each nostril once daily.",
+    "sideEffects": "Oral thrush, hoarseness, sore throat, cough. Long-term use may suppress adrenal function.",
+    "precautions": "Rinse mouth after inhalation to prevent oral thrush. Use lowest effective dose.",
+    "mechanism": "Glucocorticoid receptor agonist that reduces airway inflammation, mucus production, and hyperreactivity."
+  },
+  {
+    "name": "Aspirin",
+    "description": "Aspirin, also known as acetylsalicylic acid, is a nonsteroidal anti-inflammatory drug (NSAID) with analgesic, antipyretic, anti-inflammatory, and antiplatelet properties. It is widely used for pain relief, fever reduction, and prevention of blood clots.",
+    "uses": "Used to relieve mild to moderate pain, reduce fever, reduce inflammation in conditions like arthritis, and prevent heart attacks or strokes in people at high cardiovascular risk.",
+    "dosage": "Typical pain/fever dose for adults: 300–600 mg every 4–6 hours as needed (max 4g/day). For heart attack or stroke prevention: low-dose aspirin 75–150 mg once daily. Always follow doctor’s advice.",
+    "sideEffects": "Common side effects include stomach irritation, heartburn, nausea, and increased risk of gastric ulcers and bleeding. Rare but serious effects include allergic reactions, bronchospasm in sensitive patients, tinnitus (ringing in ears) at high doses, and Reye's syndrome in children.",
+    "precautions": "Avoid in children with viral infections due to risk of Reye’s syndrome. Use with caution in people with asthma, peptic ulcer disease, or bleeding disorders. Should not be combined with other blood thinners without medical supervision.",
+    "mechanism": "Aspirin works by irreversibly inhibiting cyclooxygenase (COX-1 and COX-2) enzymes, blocking the production of prostaglandins (which cause pain, fever, inflammation) and thromboxane A2 (which helps platelets stick together). This results in pain relief, reduced fever, decreased inflammation, and reduced clot formation."
+  },
+  {
+    "name": "Fluticasone",
+    "description": "Fluticasone is a corticosteroid used to reduce inflammation in the airways or on the skin.",
+    "uses": "Used as a nasal spray for allergic rhinitis, as an inhaler for asthma/COPD, and as a cream for eczema or dermatitis.",
+    "dosage": "Nasal spray: 1–2 sprays in each nostril once daily. Inhaler: typically 100–500 mcg twice daily. Cream: apply thin layer to affected skin once or twice daily.",
+    "sideEffects": "May cause nasal irritation, nosebleeds, throat irritation, oral thrush (inhaled), skin thinning (topical), or headache.",
+    "precautions": "Rinse mouth after inhalation to prevent thrush. Long-term use may suppress adrenal function. Use lowest effective dose.",
+    "mechanism": "Fluticasone binds to glucocorticoid receptors, inhibiting inflammatory cytokines and suppressing immune response locally."
+  },
+  {
+    "name": "Montelukast",
+    "description": "Montelukast is a leukotriene receptor antagonist used to prevent asthma attacks and reduce inflammation in the airways.",
+    "uses": "Used to prevent asthma attacks, reduce inflammation in the airways, and treat allergic asthma.",
+    "dosage": "Typically 10 mg once daily. Can be taken with or without food.",
+    "sideEffects": "May cause headache, dizziness, nausea, or stomach upset. Rarely, can cause allergic reactions or liver enzyme changes.",
+    "precautions": "Use with caution in people with liver or kidney problems. Avoid in children under 6 years old. Do not use if you have severe asthma.",
+    "mechanism": "Montelukast blocks leukotriene receptors, reducing inflammation and bronchospasm in the airways."
+  },
+  {
+    "name": "Fluticasone",
+    "description": "Fluticasone is a corticosteroid used to reduce inflammation in the airways or on the skin.",
+    "uses": "Used as a nasal spray for allergic rhinitis, as an inhaler for asthma/COPD, and as a cream for eczema or dermatitis.",
+    "dosage": "Nasal spray: 1–2 sprays in each nostril once daily. Inhaler: typically 100–500 mcg twice daily. Cream: apply thin layer to affected skin once or twice daily.",
+    "sideEffect": "May cause nasal irritation, nosebleeds, throat irritation, oral thrush (inhaled), skin thinning (topical), or headache.",
+    "precautions": "Rinse mouth after inhalation to prevent thrush. Long-term use may suppress adrenal function. Use lowest effective dose.",
+    "mechanism": "Fluticasone binds to glucocorticoid receptors, inhibiting inflammatory cytokines and suppressing immune response locally."
+  },
+  {
+    "name": "Prednisolone",
+    "description": "Prednisolone is a systemic corticosteroid used to suppress inflammation and immune responses.",
+    "uses": "Used to treat allergies, asthma exacerbations, autoimmune conditions, inflammatory diseases, and certain cancers.",
+    "dosage": "Varies widely: typical adult dose 5–60 mg daily, tapered as needed. Always follow doctor’s instructions.",
+    "sideEffect": "Can cause weight gain, fluid retention, mood changes, insomnia, high blood sugar, osteoporosis, increased infection risk.",
+    "precautions": "Do not stop suddenly; taper as advised. Monitor for infections, bone density loss, and blood sugar in long-term use.",
+    "mechanism": "Reduces inflammation by inhibiting leukocyte migration and cytokine production; suppresses immune system activity."
+  },
+  {
+    "name": "Hydrocortisone",
+    "description": "Hydrocortisone is a mild corticosteroid used orally, topically, or intravenously for inflammation and adrenal insufficiency.",
+    "uses": "Used for eczema, dermatitis, skin allergies (topical); severe inflammation or adrenal insufficiency (oral/IV).",
+    "dosage": "Topical: apply thinly 1–2 times daily. Oral: typical 20–30 mg daily in divided doses for adrenal insufficiency.",
+    "sideEffect": "Skin thinning, burning, irritation (topical); weight gain, fluid retention, high BP, infection risk (systemic).",
+    "precautions": "Avoid long-term use on sensitive skin. Taper systemic use gradually to avoid adrenal crisis.",
+    "mechanism": "Suppresses inflammation and immune response by blocking prostaglandin synthesis and leukocyte infiltration."
+  },
+  {
+    "name": "Folic Acid",
+    "description": "Folic acid is a B vitamin (B9) important for DNA synthesis and cell growth.",
+    "uses": "Used to prevent and treat folate deficiency, anemia, and during pregnancy to prevent neural tube defects.",
+    "dosage": "Typical daily dose: 400–800 mcg for prevention; up to 5 mg for deficiency treatment.",
+    "sideEffect": "Generally well tolerated; high doses may rarely cause stomach upset or rash.",
+    "precautions": "Ensure correct diagnosis of anemia type; high doses can mask B12 deficiency.",
+    "mechanism": "Provides folate, essential for DNA synthesis, repair, and red blood cell formation."
+  },
+  {
+    "name": "Iron supplements (Ferrous Ascorbate/Sulphate)",
+    "description": "Iron supplements replenish iron stores for hemoglobin production.",
+    "uses": "Used to treat iron-deficiency anemia and prevent iron deficiency during pregnancy.",
+    "dosage": "Typically 60–120 mg elemental iron daily in divided doses. Take on empty stomach for best absorption.",
+    "sideEffect": "Can cause stomach upset, constipation, dark stools, metallic taste, nausea.",
+    "precautions": "Take with vitamin C or orange juice to improve absorption. Avoid taking with tea, coffee, or dairy products.",
+    "mechanism": "Replenishes body’s iron stores, aiding in hemoglobin and red blood cell production."
+  },
+  {
+    "name": "Vitamin D (Cholecalciferol)",
+    "description": "Cholecalciferol is Vitamin D3, essential for calcium absorption and bone health.",
+    "uses": "Used to prevent or treat Vitamin D deficiency, osteoporosis, and rickets.",
+    "dosage": "Typical dose: 600–2000 IU daily; higher doses for deficiency under medical supervision.",
+    "sideEffect": "Excessive intake may cause hypercalcemia, nausea, vomiting, constipation, weakness, or kidney stones.",
+    "precautions": "Avoid overdose. Monitor calcium levels during high-dose therapy. Take with food for better absorption.",
+    "mechanism": "Enhances intestinal absorption of calcium and phosphorus, promoting healthy bone mineralization."
+  },
+  {
+    "name": "Calcium carbonate",
+    "description": "Calcium carbonate is a calcium supplement used to treat calcium deficiency and osteoporosis.",
+    "uses": "Used to treat calcium deficiency, osteoporosis, and dental cavities (when used topically).",
+    "dosage": "Typical dose: 500–1000 mg daily for deficiency; 200–400 mg daily for dental cavities.",
+    "sideEffect": "May cause constipation, nausea, vomiting, or diarrhea. Excessive intake may cause kidney stones.",
+    "precautions": "Take with food to improve absorption. Avoid taking with antacids or iron supplements.",
+    "mechanism": "Increases calcium levels in the blood and bone, aiding in bone mineralization and tooth enamel formation."
+  },
+  {
+    "name": "Vitamin B Complex",
+    "description": "A combination of B vitamins that help convert food into energy and support nervous system health.",
+    "uses": "Used for B vitamin deficiencies, fatigue, stress support, and improving nerve function.",
+    "dosage": "Varies by preparation; usually taken once daily with food.",
+    "sideEffect": "High doses may cause nausea, diarrhea, bright yellow urine, mild stomach upset.",
+    "precautions": "Do not exceed recommended doses. Some B vitamins (like B6) can cause nerve damage if taken in excess.",
+    "mechanism": "Supports cellular metabolism, red blood cell production, and nerve health by acting as coenzymes."
+  },
+  {
+    "name": "Calcium Carbonate",
+    "description": "Calcium Carbonate is a calcium supplement and antacid.",
+    "uses": "Used to prevent or treat calcium deficiency, osteoporosis, and as an antacid for heartburn.",
+    "dosage": "500–1200 mg elemental calcium daily in divided doses; take with food.",
+    "sideEffect": "May cause constipation, bloating, gas, or in high doses, kidney stones and hypercalcemia.",
+    "precautions": "Do not exceed recommended doses. Drink plenty of fluids to prevent kidney stones.",
+    "mechanism": "Provides calcium for bone mineralization and neutralizes stomach acid."
+  },
+  {
+    "name": "Alprazolam",
+    "description": "Alprazolam is a benzodiazepine used for anxiety and panic disorders.",
+    "uses": "Short-term treatment of anxiety disorders, panic attacks, and sometimes insomnia.",
+    "dosage": "Typical: 0.25–0.5 mg up to 3 times daily. Dose adjusted individually.",
+    "sideEffect": "Drowsiness, dizziness, fatigue, memory problems, dependence with long-term use, withdrawal symptoms.",
+    "precautions": "Avoid alcohol. Use shortest duration possible. Risk of dependence and withdrawal.",
+    "mechanism": "Enhances GABA activity in the brain, producing a calming effect on the central nervous system."
+  },
+  
+  {
+    "name": "Clonazepam",
+    "description": "Clonazepam is a benzodiazepine used for seizures and panic disorders.",
+    "uses": "Treats epilepsy, panic disorder, restless leg syndrome, sometimes sleep disorders.",
+    "dosage": "Typical adult dose: 0.5–2 mg daily in divided doses.",
+    "sideEffect": "Drowsiness, dizziness, muscle weakness, coordination issues, dependence, withdrawal symptoms.",
+    "precautions": "Use shortest duration possible. Avoid alcohol and other CNS depressants. Risk of dependence.",
+    "mechanism": "Boosts GABA activity in the brain, calming excessive electrical brain activity."
+  },
+  {
+    "name": "Escitalopram",
+    "description": "Escitalopram is an SSRI antidepressant used to treat depression and anxiety.",
+    "uses": "Used for major depressive disorder, generalized anxiety disorder, social anxiety.",
+    "dosage": "Typical dose: 10–20 mg once daily.",
+    "sideEffect": "Nausea, headache, insomnia, sexual dysfunction, dry mouth, dizziness, possible suicidal thoughts initially.",
+    "precautions": "Do not stop suddenly. Monitor mood changes. Avoid alcohol. Takes several weeks to work fully.",
+    "mechanism": "Inhibits serotonin reuptake in the brain, increasing serotonin levels to improve mood and reduce anxiety."
+  },
+  {
+    "name": "Sertraline",
+    "description": "Sertraline is an SSRI antidepressant used for depression, anxiety, and OCD.",
+    "uses": "Used for major depression, OCD, panic disorder, PTSD, social anxiety disorder.",
+    "dosage": "Typical dose: 50–200 mg once daily.",
+    "sideEffect": "Nausea, diarrhea, insomnia, sexual dysfunction, headache, dizziness, possible suicidal thoughts initially.",
+    "precautions": "Do not stop abruptly. Monitor for mood changes. Takes weeks to show full effect.",
+    "mechanism": "Blocks reuptake of serotonin in the brain, boosting its levels to balance mood and anxiety."
+  },
+  {
+    "name": "Fluoxetine",
+    "description": "Fluoxetine is an SSRI antidepressant commonly known as Prozac.",
+    "uses": "Used for depression, OCD, bulimia nervosa, panic disorder.",
+    "dosage": "Typical dose: 20–40 mg daily, may be increased under supervision.",
+    "sideEffect": "Insomnia, anxiety, headache, nausea, sexual dysfunction, weight changes, possible suicidal thoughts initially.",
+    "precautions": "Do not stop abruptly. Takes several weeks to work. Monitor for serotonin syndrome if combined with other serotonergic drugs.",
+    "mechanism": "Inhibits serotonin reuptake, increasing its availability in the brain to elevate mood and control anxiety."
+  },
+  {
+    "name": "Sertraline",
+    "description": "Sertraline is an SSRI antidepressant used for depression, anxiety, and OCD.",
+    "uses": "Used for major depression, OCD, panic disorder, PTSD, social anxiety disorder.",
+    "dosage": "Typical dose: 50–200 mg once daily.",
+    "sideEffect": "Nausea, diarrhea, insomnia, sexual dysfunction, headache, dizziness, possible suicidal thoughts initially.",
+    "precautions": "Do not stop abruptly. Monitor for mood changes. Takes weeks to show full effect.",
+    "mechanism": "Blocks reuptake of serotonin in the brain, boosting its levels to balance mood and anxiety."
+  },
+  {
+    "name": "Fluoxetine",
+    "description": "Fluoxetine is an SSRI antidepressant commonly known as Prozac.",
+    "uses": "Used for depression, OCD, bulimia nervosa, panic disorder.",
+    "dosage": "Typical dose: 20–40 mg daily, may be increased under supervision.",
+    "sideEffect": "Insomnia, anxiety, headache, nausea, sexual dysfunction, weight changes, possible suicidal thoughts initially.",
+    "precautions": "Do not stop abruptly. Takes several weeks to work. Monitor for serotonin syndrome if combined with other serotonergic drugs.",
+    "mechanism": "Inhibits serotonin reuptake, increasing its availability in the brain to elevate mood and control anxiety."
+  },
+  {
+    "name": "Amitriptyline",
+    "description": "Amitriptyline is a tricyclic antidepressant used for depression and chronic pain.",
+    "uses": "Used for depression, neuropathic pain, migraine prevention, sometimes insomnia.",
+    "dosage": "Typical: 10–50 mg at bedtime; may increase as needed.",
+    "sideEffect": "Drowsiness, dry mouth, constipation, weight gain, dizziness, heart rhythm problems.",
+    "precautions": "Avoid alcohol. Use cautiously in heart disease. Can cause drowsiness — take at night.",
+    "mechanism": "Blocks reuptake of serotonin and norepinephrine, increasing their levels to lift mood and reduce pain."
+  },
+  {
+    "name": "Gabapentin",
+    "description": "Gabapentin is an anticonvulsant and nerve pain reliever.",
+    "uses": "Used for neuropathic pain, epilepsy, restless leg syndrome.",
+    "dosage": "Typical: 300–900 mg daily in divided doses; may increase gradually.",
+    "sideEffect": "Drowsiness, dizziness, weight gain, swelling, unsteadiness, blurred vision.",
+    "precautions": "Do not stop abruptly. Use cautiously if driving or operating machinery.",
+    "mechanism": "Modulates calcium channels in nerves, reducing abnormal electrical activity and pain signals."
+  },
+  {
+    "name": "Pregabalin",
+    "description": "Pregabalin is used for nerve pain, epilepsy, and anxiety disorders.",
+    "uses": "Used for neuropathic pain, fibromyalgia, partial seizures, generalized anxiety disorder.",
+    "dosage": "Typical: 75–150 mg daily in divided doses; may increase as needed.",
+    "sideEffect": "Dizziness, drowsiness, blurred vision, weight gain, swelling, dry mouth.",
+    "precautions": "Avoid alcohol. Do not stop suddenly. May cause drowsiness — use caution.",
+    "mechanism": "Binds to calcium channels in the nervous system, reducing the release of neurotransmitters that cause pain and seizures."
+  },
+  {
+    "name": "Anabolic Steroids",
+    "description": "Anabolic steroids are synthetic derivatives of testosterone designed to promote muscle growth and enhance athletic performance. They mimic the anabolic (muscle-building) effects of natural testosterone but often with exaggerated potency.",
+    "uses": "Medically used to treat delayed puberty, certain types of impotence, wasting conditions like severe weight loss due to chronic illness or HIV/AIDS, and sometimes anemia. Non-medical use is common among bodybuilders and athletes to increase muscle mass, strength, and performance, though this is illegal in many sports and countries.",
+    "dosage": "Dosage varies greatly depending on the medical condition being treated. Medically supervised doses are usually low and short-term. Illicit or performance-enhancing doses are often dangerously high and taken in cycles (cycling) or in combination with other steroids (stacking).",
+    "sideEffect": "Potential side effects include liver damage, jaundice, severe acne, hair loss, increased risk of heart disease and stroke, hypertension, aggressive behavior ('roid rage'), mood swings, infertility, testicular shrinkage, gynecomastia (breast development in men), menstrual irregularities in women, deepened voice, excessive hair growth in women, stunted growth in adolescents, and increased risk of infections due to unsafe injection practices.",
+    "precautions": "Use only under strict medical supervision for legitimate medical conditions. Avoid non-prescribed or recreational use due to high risk of severe health consequences and legal issues. Regular monitoring of liver function, cholesterol levels, and hormone levels is essential during treatment.",
+    "mechanism": "Anabolic steroids bind to androgen receptors in muscle cells, stimulating protein synthesis and muscle growth. They also increase nitrogen retention in muscle tissues, enhancing recovery and muscle mass. However, they can disrupt the natural hormonal balance, suppressing the body’s own testosterone production and affecting multiple organ systems."
+  },
+  {
+    "name": "Nandrolone Decanoate",
+    "description": "Nandrolone Decanoate is a long-acting anabolic steroid derived from testosterone. It has strong anabolic effects with relatively mild androgenic properties, making it popular in clinical settings for treating muscle wasting and anemia, and notorious in the bodybuilding community for off-label performance enhancement.",
+    "uses": "Medically used to treat anemia of chronic kidney disease, severe osteoporosis, certain muscle wasting diseases, and sometimes as an adjunct in conditions causing severe involuntary weight loss. Illegally misused by bodybuilders and athletes to increase muscle mass, strength, and recovery.",
+    "dosage": "Typical medical doses range from 50–200 mg every 2–4 weeks, administered intramuscularly. Bodybuilders often abuse doses far exceeding medical recommendations, sometimes 200–600 mg per week, in cycles lasting 8–12 weeks — which carries significant health risks.",
+    "sideEffect": "Possible side effects include liver toxicity, suppression of natural testosterone production, testicular atrophy, gynecomastia due to aromatization to estrogen, infertility, fluid retention, increased risk of cardiovascular disease, acne, oily skin, male-pattern baldness, mood swings, aggression, and in women, deepened voice, excessive body hair, menstrual disturbances, and clitoral enlargement. Long-term misuse can lead to irreversible endocrine and liver damage.",
+    "precautions": "Should only be used under prescription and medical supervision. Contraindicated in patients with prostate or breast cancer, liver disease, and heart disease. Regular monitoring of blood counts, liver function, cholesterol levels, and prostate health is critical. Never share needles; improper injection techniques can lead to abscesses and infections.",
+    "mechanism": "Nandrolone binds strongly to androgen receptors in muscle cells, enhancing protein synthesis and nitrogen retention, which stimulates muscle growth and repair. Its low conversion to dihydrotestosterone (DHT) reduces androgenic side effects compared to testosterone but increases progestin activity, which can contribute to gynecomastia."
+  },
+  {
+    "name": "Testosterone",
+    "description": "Testosterone is the primary male sex hormone and an anabolic steroid naturally produced in the body. Medically, it’s used in testosterone replacement therapy (TRT) for men with low levels and for certain hormone-related conditions. Illegally, it’s often abused by athletes and bodybuilders to enhance muscle mass, strength, and performance.",
+    "uses": "Used to treat male hypogonadism (low testosterone), delayed puberty in boys, some cases of breast cancer in women, and gender-affirming hormone therapy for transgender men. Athletes and bodybuilders misuse synthetic testosterone to build muscle and improve recovery.",
+    "dosage": "Medically prescribed doses vary based on condition and formulation — for TRT, typical doses range from 50–200 mg of injectable testosterone every 1–2 weeks, or daily gels or patches delivering 5–10 mg per day. Non-medical users often take much higher doses, sometimes 300–1000+ mg per week, often in cycles of 8–16 weeks.",
+    "sideEffect": "Possible side effects include acne, oily skin, hair loss (male pattern baldness), gynecomastia (conversion to estrogen), increased aggression or mood swings, infertility due to suppression of natural testosterone production, testicular shrinkage, sleep apnea, elevated red blood cell count (risking clots), liver strain with oral forms, worsening of prostate conditions, and increased cardiovascular risks like heart attack and stroke.",
+    "precautions": "Contraindicated in men with prostate or breast cancer. Caution in those with heart, liver, or kidney disease. Regular monitoring of testosterone levels, PSA (prostate-specific antigen), liver function, cholesterol, and hematocrit is vital. Non-prescribed use is illegal and carries significant health risks.",
+    "mechanism": "Testosterone binds to androgen receptors in muscle and other tissues, increasing protein synthesis, nitrogen retention, and muscle fiber growth. It’s also partially converted to dihydrotestosterone (DHT) in tissues, increasing androgenic effects, and to estradiol (estrogen) via aromatase, contributing to gynecomastia and fluid retention."
+  },
+  {
+    "name": "Methandienone",
+    "description": "Methandienone, commonly known as Dianabol or Dbol, is a potent oral anabolic steroid. Originally developed in the 1950s to help athletes boost performance, it quickly gained fame as one of the first anabolic steroids widely used for muscle building. Due to its significant anabolic effects, it remains popular among bodybuilders, though it’s illegal for non-medical use in most countries.",
+    "uses": "Used illegally by athletes and bodybuilders to rapidly increase muscle mass, strength, and performance. Medically, it was once prescribed for muscle-wasting diseases but is now rarely used due to safer alternatives and high abuse potential.",
+    "dosage": "Typical non-medical doses range from 15–50 mg per day, often split into multiple doses to maintain stable blood levels. Cycles usually last 4–6 weeks to limit liver stress. Medical dosages, when used historically, were much lower — around 2–5 mg per day.",
+    "sideEffect": "Possible side effects include liver toxicity (it’s hepatotoxic due to its C17-alpha alkylated structure), significant water retention leading to bloating and high blood pressure, acne, oily skin, accelerated hair loss in genetically prone individuals, gynecomastia (due to estrogen conversion), testicular atrophy, suppression of natural testosterone production, mood swings, and increased aggression. Long-term abuse raises risks of liver damage, cardiovascular disease, and infertility.",
+    "precautions": "Should never be used without medical supervision. Regular liver function tests are crucial. Anti-estrogens like SERMs or aromatase inhibitors are sometimes used to counter gynecomastia. Not suitable for those with liver disease, heart conditions, or prostate problems. Non-prescribed use is illegal and potentially dangerous.",
+    "mechanism": "Methandienone increases protein synthesis, nitrogen retention, and glycogenolysis in muscles, promoting rapid muscle growth and strength gains. It aromatizes easily into estrogen, causing fluid retention and potential estrogenic side effects like gynecomastia. Its oral bioavailability is due to its alkylated structure, but this also makes it toxic to the liver."
+  },
+  {
+    "name": "Stanozolol",
+    "description": "Stanozolol, widely known by its trade name Winstrol, is a synthetic anabolic steroid derived from dihydrotestosterone (DHT). It was developed in the 1960s and rose to fame for its powerful anabolic effects paired with minimal androgenic activity, making it a favorite for athletes looking to enhance muscle definition without excessive bulk or water retention. Available in both oral and injectable forms, it’s still used medically for rare conditions, though its main notoriety comes from sports and bodybuilding.",
+    "uses": "Non-medically, it’s used by athletes and bodybuilders during cutting cycles to maintain lean muscle mass, enhance vascularity, and boost strength without adding extra weight. Medically, it has been prescribed for treating hereditary angioedema (a rare swelling disorder), anemia, and to promote recovery and weight gain in severe illness or trauma.",
+    "dosage": "For performance enhancement, typical non-medical doses range from 25–50 mg daily for oral use, or 50 mg every other day if injected. Cycles usually last 4–6 weeks to minimize liver strain. Medical doses are far lower, often around 2 mg orally twice a day, depending on the condition being treated.",
+    "sideEffect": "Side effects can include significant liver toxicity (especially with oral use, due to its C17-alpha alkylation), joint pain and dryness (due to its non-aromatizing nature, which reduces fluid retention around joints), increased LDL cholesterol and decreased HDL cholesterol, acne and oily skin, hair thinning or loss in those genetically predisposed, virilization in women (deep voice, body hair), mood swings, and suppression of natural testosterone production. Long-term misuse raises the risk of liver damage, cardiovascular disease, infertility, and ligament injuries due to dry, brittle joints.",
+    "precautions": "Use should always be under strict medical supervision if prescribed. Regular monitoring of liver enzymes and cholesterol levels is essential. Not suitable for individuals with pre-existing liver disease, heart problems, or high cholesterol. Women should be especially cautious due to the risk of masculinizing side effects. Combining with other hepatotoxic substances like alcohol increases risks dramatically.",
+    "mechanism": "Stanozolol works by binding to androgen receptors, boosting protein synthesis and nitrogen retention in muscle tissue. It also lowers sex hormone-binding globulin (SHBG), increasing the amount of free, active testosterone in the bloodstream. Unlike many other anabolic steroids, Stanozolol does not convert to estrogen (it doesn’t aromatize), which helps prevent water retention and gynecomastia but contributes to joint dryness and potential ligament stress."
+  },
+  {
+    "name": "Oxandrolone",
+    "description": "Oxandrolone, commonly known by its trade name Anavar, is a mild yet highly effective oral anabolic steroid developed in the 1960s. It’s prized for its ability to promote lean muscle gains, boost strength, and aid in recovery without excessive androgenic or estrogenic side effects. Medically, it’s still used in certain contexts to help patients regain weight after surgery, chronic infection, or severe trauma, and to treat certain cases of bone pain due to osteoporosis.",
+    "uses": "In bodybuilding and athletics, Oxandrolone is popular during cutting cycles to preserve lean muscle while shedding body fat. Medically, it’s prescribed for weight gain in underweight patients, counteracting protein catabolism, and in some cases for treating severe burns and osteoporosis.",
+    "dosage": "Typical performance-enhancing doses for men range from 20–80 mg per day, with cycles lasting 6–8 weeks. For women, due to its mild androgenic nature, doses are usually much lower — around 5–20 mg daily to reduce risk of virilization. Medically prescribed doses are much lower, typically 2.5–20 mg daily depending on the condition.",
+    "sideEffect": "Side effects include mild liver toxicity due to its oral C17-alpha alkylated structure, though it’s considered less hepatotoxic than many other oral steroids. Other side effects can be cholesterol imbalance (lowered HDL and increased LDL), mild suppression of natural testosterone production, acne, oily skin, and potential hair thinning in predisposed individuals. Women may experience deepening of the voice, increased body hair, and menstrual irregularities at higher doses. Long-term misuse can strain the liver and cardiovascular system.",
+    "precautions": "Oxandrolone should be used only under medical supervision if prescribed. Regular liver function and lipid profile monitoring are important during cycles. Combining with other hepatotoxic substances, such as alcohol or other oral steroids, raises liver risks. Men should consider post-cycle therapy (PCT) to help restore natural testosterone production. Women should be especially cautious with dosing to avoid masculinizing effects.",
+    "mechanism": "Oxandrolone works by binding to androgen receptors, promoting increased protein synthesis and nitrogen retention in muscle tissue. Unlike many steroids, it does not aromatize to estrogen, so there’s little to no risk of water retention or gynecomastia. It’s also known for enhancing phosphocreatine synthesis in muscle cells, contributing to improved strength without significant mass gain."
+  }
+  ,
+  {
+    "name": "Steroids",
+    "description": "Anabolic steroids are synthetic derivatives of testosterone designed to promote muscle growth and enhance athletic performance. They mimic the anabolic (muscle-building) effects of natural testosterone but often with exaggerated potency.",
+    "uses": "Medically used to treat delayed puberty, certain types of impotence, wasting conditions like severe weight loss due to chronic illness or HIV/AIDS, and sometimes anemia. Non-medical use is common among bodybuilders and athletes to increase muscle mass, strength, and performance, though this is illegal in many sports and countries.",
+    "dosage": "Dosage varies greatly depending on the medical condition being treated. Medically supervised doses are usually low and short-term. Illicit or performance-enhancing doses are often dangerously high and taken in cycles (cycling) or in combination with other steroids (stacking).",
+    "sideEffect": "Potential side effects include liver damage, jaundice, severe acne, hair loss, increased risk of heart disease and stroke, hypertension, aggressive behavior ('roid rage'), mood swings, infertility, testicular shrinkage, gynecomastia (breast development in men), menstrual irregularities in women, deepened voice, excessive hair growth in women, stunted growth in adolescents, and increased risk of infections due to unsafe injection practices.",
+    "precautions": "Use only under strict medical supervision for legitimate medical conditions. Avoid non-prescribed or recreational use due to high risk of severe health consequences and legal issues. Regular monitoring of liver function, cholesterol levels, and hormone levels is essential during treatment.",
+    "mechanism": "Anabolic steroids bind to androgen receptors in muscle cells, stimulating protein synthesis and muscle growth. They also increase nitrogen retention in muscle tissues, enhancing recovery and muscle mass. However, they can disrupt the natural hormonal balance, suppressing the body’s own testosterone production and affecting multiple organ systems."
+  }
+]
+  

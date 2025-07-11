@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>ChemiSearch - Arshpreet & Naman</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+    <!-- 🌟 NAVBAR START -->
+    <nav class="navbar">
+      <div class="nav-container">
+        <div class="logo">MedCheck</div>
+        <div class="menu-toggle">☰</div> <!-- burger - to convert to menu -->
+        <div class="nav-links">
+          <a href="index.html">Search Chemicals</a>
+          <a href="medicines.html">Search Medicines</a>
+          <a href="about.html">About Us</a>
+        </div>
+      </div>
+    </nav>
+    <!-- 🌟 NAVBAR END -->
+  
+  <div class="container">
+    <h1>💊 MedCheck</h1>
+    <p class="tagline">Search medicines & learn their secrets</p>
+    <div class="search-bar">
+  <input type="text" id="searchInput" placeholder="Enter medicine name..."/>
+  <button id="cameraBtn" aria-label="Search by image" title="Search by Image">
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M23 19a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V7a2 2 0 0 1 2-2h3.17a2 2 0 0 0 1.41-.59l1.83-1.82A2 2 0 0 1 11.83 2h.34a2 2 0 0 1 1.42.59l1.83 1.82A2 2 0 0 0 17.83 5H21a2 2 0 0 1 2 2z"></path><circle cx="12" cy="13" r="4"></circle></svg>
+  </button>
+  <button id="searchBtn">Search</button>
+  <input type="file" id="imageInput" accept="image/*" capture="environment" style="display:none" />
+</div>
+    <div id="results"></div>
+  </div>
+  <script src="script2.js"></script>
+  <script>
+    const menuToggle = document.querySelector('.menu-toggle');
+    const navLinks = document.querySelector('.nav-links');
+  
+    menuToggle.addEventListener('click', () => {
+      navLinks.classList.toggle('show');
+    });
+  </script>
+  
+</body>
+</html>
